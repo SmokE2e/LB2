@@ -1,0 +1,5 @@
+C:\Users\Home\Desktop\LB2\json\AMAZON_FASHION_5.json
+C:\Users\Home\Desktop\LB2\json\Digital_Music_5.json
+C:\Users\Home\Desktop\LB2\json\Software_5.json
+
+C:\Users\Home\Desktop\LB2\json\
